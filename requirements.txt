@@ -10,9 +10,13 @@ mypy==0.720
 mypy-extensions==0.4.1
 packaging==19.0
 pluggy==0.12.0
+prompt-toolkit==1.0.14
 py==1.8.0
+Pygments==2.4.2
+PyInquirer==1.0.3
 pyparsing==2.4.0
 pytest==5.0.1
+regex==2019.6.8
 six==1.12.0
 toml==0.10.0
 typed-ast==1.4.0
